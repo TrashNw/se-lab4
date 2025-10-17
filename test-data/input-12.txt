@@ -1,0 +1,4 @@
+# Create a ship with 1 PRIMARY torpedo that never fail
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # fires 1 prim
+TORPEDO,SINGLE  # fail -> empty
