@@ -1,0 +1,2 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO 1 prim 2 sec
